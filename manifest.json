@@ -1,6 +1,6 @@
 {
-  "short_name": "Umakant Vashishtha",
-  "name": "Personal Website of Umakant Vashishtha",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
